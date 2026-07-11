@@ -59,3 +59,8 @@ dkms.conf
 # IDEs and Editors
 .vs/
 .vscode/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
